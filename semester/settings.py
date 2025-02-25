@@ -79,13 +79,13 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'postgres',
-        'USER': 'postgres.cvqseeetodqneyfwvxow',
-        'PASSWORD': 'Muhammad@123',
+        'USER': 'postgres.mbqojstmxyrrefnqjgpq',
+        'PASSWORD': 'Muhammadrafay@123',
         'HOST': 'aws-0-ap-southeast-1.pooler.supabase.com',
         'PORT': '5432',  
     }
 } 
-
+# muhammadrafayy0@gmail.com wali email ka hai data base name muhammadrafayy0@gmail.com hai   
 
 # Password validation
 # https://docs.djangoproject.com/en/5.1/ref/settings/#auth-password-validators
